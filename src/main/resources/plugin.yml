@@ -1,0 +1,4 @@
+name: WildPlus
+version: 1.0
+main: me.mandu.wildplus.WildPlus
+api-version: 1.19
